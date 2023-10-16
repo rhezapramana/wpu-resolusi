@@ -1,9 +1,14 @@
 rencana rheza
-
-belajar python
+- belajar python
   # Belajar machine learning
     # deep learning
     # neural network
-bikin coffeeshop
-belajar sql
-membuat bisnis
+    # streamlit 
+- bikin coffeeshop
+- belajar sql
+- membuat bisnis
+- belajar javascript
+  # framework javascript
+    # vue
+    # react
+
