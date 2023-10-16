@@ -4,5 +4,6 @@ belajar python
   # Belajar machine learning
     # deep learning
     # neural network
+bikin coffeeshop
 belajar sql
 membuat bisnis
