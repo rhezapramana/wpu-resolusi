@@ -10,4 +10,5 @@ rencana rheza
 - belajar javascript
   # framework javascript
     # vue
+    # react
 
