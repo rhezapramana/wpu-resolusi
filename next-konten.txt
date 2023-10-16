@@ -3,12 +3,15 @@ rencana rheza
   # Belajar machine learning
     # deep learning
     # neural network
-    # streamlit 
-- bikin coffeeshop
-- belajar sql
-- membuat bisnis
-- belajar javascript
-  # framework javascript
-    # vue
+    # streamlit
+- belajar javascript 
+  # framewowk javascript
+    # angular
     # react
+    # vue
+- php framework 
+  # laravel
+- belajar sql
+
+
 
